@@ -16,3 +16,9 @@ c=a+b
             var ttt=67
                  
   idf=uu
+<<<<<<< HEAD
+=======
+  gos=75
+  husyt=dce
+  fiuheihu=8932
+>>>>>>> branch10
