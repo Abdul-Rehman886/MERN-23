@@ -8,5 +8,16 @@ c=a+b
     h=20
     k=g+h
     }
-     var o = 10
+    {
+        var g = 10
+        h=20
+        k=g+h
+        }
+        {
+            var g = 10
+            h=20
+            k=g+h
+            }
+            var ttt=67
+                 
   
