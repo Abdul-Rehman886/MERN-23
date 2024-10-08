@@ -20,4 +20,6 @@ c=a+b
             }
             var ttt=67
                  
+  idf=uu
+  gos=75
   
