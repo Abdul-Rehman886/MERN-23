@@ -22,4 +22,4 @@ c=a+b
                  
   idf=uu
   gos=75
-  
+  husyt=dce
