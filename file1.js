@@ -4,12 +4,7 @@ b=20
 c=a+b
 }
 {
-    var g = 10
-    h=20
-    k=g+h
-    }
-    {
-        var g = 10
+   var g = 10
         h=20
         k=g+h
         }
@@ -21,5 +16,3 @@ c=a+b
             var ttt=67
                  
   idf=uu
-  gos=75
-  husyt=dce
