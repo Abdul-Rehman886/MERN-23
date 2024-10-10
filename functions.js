@@ -26,4 +26,13 @@ function name(p1,p2) {
     console.log(p1); //error
     console.log(p2); //error    
 }
-name(,1)
+// name(,1)
+
+var name=function (p1,p2) {
+    console.log(p1); //2
+    console.log(p2); //1  
+}
+name(2,1)
+name=20;
+console.log(name);
+fjie=ckc
