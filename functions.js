@@ -35,4 +35,11 @@ var name=function (p1,p2) {
 name(2,1)
 name=20;
 console.log(name);
-fjie=ckc
+
+
+((p1)=>{
+    console.log(p1);
+    
+})
+
+(199)
