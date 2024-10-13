@@ -55,3 +55,8 @@ console.log(p1%p2);
 
 }
 newfile(2,3)
+function func1(r1,r2){
+    console.log(r1+r2);
+    
+}
+func1(99,66)
