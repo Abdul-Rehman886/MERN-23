@@ -50,3 +50,8 @@ console.log(p1+p2);
 
 })
 (1,2)
+const newfile=(p1,p2)=>{
+console.log(p1%p2);
+
+}
+newfile(2,3)
