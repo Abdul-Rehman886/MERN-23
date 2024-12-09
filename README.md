@@ -1,3 +1,3 @@
 # MERN-23
-Practicig Java Script
+Practicing Java Script
 
